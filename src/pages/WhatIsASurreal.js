@@ -31,7 +31,7 @@ function WhatIsASurreal() {
 
             <p>Most people have heard the phrase: <em>"Infinity's not a number"</em>. But, why can't it be? What, intrinsic to infinity, prevents us from doing mathematics with it? Some would argue that we must have {'\\(\\infty+1 = \\infty\\)'}, which would indeed yield a contradiction. But what if we allow {'\\(\\infty+1\\)'} to be its own number?
             <br/><br/>
-            The surreal numbers are a particularly important set. In fact, they form an ordered field, much like the reals. However, they are much more powerful—<b>the surreal numbers contain every ordered field</b> (formally, we'd say there's an isomorphism between every ordered field and a subset of the surreals). This means the integers, the rational numbers, the real numbers, every finite (ordered) field, and even non-fields like the ordinal numbers are contained in the surreals.</p>
+            The surreal numbers are a particularly important set. In fact, they form an ordered field, much like the reals. However, they are much more powerful—<b>the surreal numbers contain every ordered field</b> (formally, we'd say there's an isomorphism between every ordered field and a subset of the surreals). This means the integers, the rational numbers, the real numbers, every model of the hyperreals, and even non-fields like the ordinal numbers are contained in the surreals.</p>
             
             <br/><br/>
             <h2>What are Surreal Numbers Made off?</h2>
